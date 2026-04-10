@@ -81,7 +81,7 @@ http://localhost:8501
 ```
 project/
 │
-├── app.py
+├── dashboard.py
 ├── customers_dataset.csv
 ├── orders_dataset.csv
 ├── order_items_dataset.csv
